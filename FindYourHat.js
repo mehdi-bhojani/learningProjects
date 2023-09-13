@@ -10,7 +10,6 @@ class Field {
   constructor(array) {
     this.array = array;
   }
-
   generateField() {
     let x = prompt('Enter X size:');
     let y = prompt('Enter Y Size:');
